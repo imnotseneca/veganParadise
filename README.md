@@ -5,6 +5,6 @@ This is the **first website** I built for my portfolio. Designed a new brand, in
 
 ![veganParadiseMain](https://user-images.githubusercontent.com/103332103/218277577-0c832c1c-1c5c-44a5-befc-e85bbeb2c1f7.png)
 
-**Link to the project:** [(https://veganparadise.netlify.app/)](https://veganparadise.netlify.app/)
+**Link to the project:** https://casadechivilcoy.netlify.app/
 
 **Tech used:** HTML, CSS, JavaScript.
